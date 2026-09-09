@@ -1,8 +1,8 @@
 # Assignment Tracker — downloads
 
-Releases for [Assignment Tracker](https://github.com/MookyEU/Assignment-Tracker),
-a local-first coursework tracker for Windows. It reads a Brightspace (D2L)
-calendar feed and sorts your work by how soon it is due.
+Releases for **Assignment Tracker**, a local-first coursework tracker for
+Windows. It reads a Brightspace (D2L) calendar feed and sorts your work by how
+soon it is due.
 
 No account, no server, nothing sent anywhere.
 
@@ -46,5 +46,4 @@ Take the installer from the releases page instead.
 
 ## Source
 
-The source lives in a separate, private repository. This one holds release files
-and nothing else.
+Not public. This repository holds release files and nothing else.
