@@ -1,0 +1,11 @@
+{
+    "version":  "0.2.0",
+    "notes":  "Summaries are shorter and stick to what the posting actually says. The course list shows overdue, due soon and later as three counts. The app can update itself from now on, so this is the last time you need the full installer.",
+    "pub_date":  "2026-09-09T15:30:45Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.2.0_x64-updater.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qmd2TXpvbW1QeC9qOWhERnVEOUJpeVhIR0w1bTdCOXhYcXFLM0ptSlA4ZTU5bFZzV0lXMjRLZXUvM3ZHVnBRbHRSdTdWUDNWMTJGcTAycEdWWHpJUFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY3ODQ1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzAuMi4wX3g2NC1zZXR1cC5leGUKYUdGK2hlUlI0SlRqZ09vTmt6eHVLNndISzFKL2J6YThrdmhQU0JDcVZObG5KTHhuMStuU1k5Vys3TGZyaXd0SFhXeDFpV1orRXp3S2xNWEswKy85Q3c9PQo="
+                                         }
+                  }
+}
