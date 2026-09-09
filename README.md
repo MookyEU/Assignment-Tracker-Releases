@@ -27,8 +27,7 @@ recognises.
 ## Windows may warn you
 
 The installer is not signed with a code-signing certificate, so SmartScreen may
-say the publisher is unknown. **More info → Run anyway.** If you would rather
-not, that is a reasonable thing to decide.
+say the publisher is unknown. **More info → Run anyway.**. This is because the app is not certified by Microsoft, that costs $300-$700/Year.
 
 ## `updates/`
 
