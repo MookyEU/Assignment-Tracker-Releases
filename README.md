@@ -11,8 +11,8 @@ No account, no server, nothing sent anywhere.
 **[Latest release →](../../releases/latest)**
 
 There is one file on it, `…_x64-setup.exe`, and that is the one you want. It is
-large — about 950 MB — because it carries everything the app needs, including
-the language model that rewrites each posting in plainer words. You install it
+large, about 950 MB this is because it carries everything the app needs, including
+the large language model that rewrites each posting in plainer words. You install it
 once and it works offline immediately, with nothing left to fetch.
 
 ## Updating
