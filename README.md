@@ -1,4 +1,4 @@
-# Assignment Tracker — downloads
+# Assignment Tracker | downloads
 
 Releases for **Assignment Tracker**, a local-first coursework tracker for
 Windows. It reads a Brightspace (D2L) calendar feed and sorts your work by how
