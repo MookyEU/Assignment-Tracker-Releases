@@ -1,0 +1,10 @@
+# The update package is signed over its exact bytes. core.autocrlf is true on
+# the machine that publishes these, so a file git decides is text gets its LF
+# turned into CRLF on checkout -- and a payload one byte different from the one
+# that was signed is one every install downloads and then refuses, with no way
+# for the person to tell why.
+#
+# Git's binary detection got this right unprompted, which is not the same as it
+# being guaranteed. This makes it guaranteed.
+updates/** -text -diff
+*.exe      -text -diff
