@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Settings opens without freezing. Generating a summary no longer freezes the window.",
-  "pub_date": "2026-09-11T20:26:41Z",
+  "version": "0.1.3",
+  "notes": "Security fix: the summary model now only accepts requests from this app.",
+  "pub_date": "2026-09-11T20:51:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.2_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnFvamdFaFZ4Y1ByRWZySkFpVWVCOXgxRnY5Vm0wc0tORVpMdzgvbUw0ZC9iOU9xZjVDVXFWbFZGM1ZsOCtHaklXTEVidGVIWk1vOHhNTGxPZE4wblFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU4NDAxCWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKcVNlN2Uxamk0NUZRRlViMmVGZU9ZR1MwbkkyZFJDUmI1a3FoTUx1TnVDUmMyOHVzUFJqaFVxcVJDczJZU2JkMXRuNExRMkVXV0Z2a2lrTnE0WUhvQmc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.3_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnU1MjVUaUgwVEVFbmlrUWkwelNxejF3b1QvZVRLTUVoemNVU0lOQ2k1cjhIcmVpcGMzVUlKTUhnMllNRWxPTUkvWVY1K2JjVEhWN0ZmYzVBWHRsdWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU5ODY1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKcHM2dE5XZERXd2k2NjFvSVpCbks0Qmt3OFVhUStZU2pCS1Q5M1FTWEdHNHNJT0h3aTBaMXk5T1d2TzdCSzNiV2VENFhlTndkVU9XZDBUeWJJR0lxQWc9PQo="
     }
   }
 }
