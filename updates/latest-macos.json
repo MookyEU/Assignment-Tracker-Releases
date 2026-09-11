@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Updates restart the app by themselves. Settings shows the real size of an update.",
+  "pub_date": "2026-09-11T17:35:28Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.1_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnRtYUpDV0tneWRFMzRIUWRMM3N2RTdZcXZKUFkyVk00U0tWUi9CRFNoK2JWTjE4ZlhMOGM2N2ZCaFZ2RDgzT2JJZks0TWVaRWU0UmM4NnJIVzVvTFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ4MTI4CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKK2F4MmtMRitYaDk3MkZITWUxbXBsSk9DMHNBT3FObWV3dG9GYnkxcFhCYVhMbXNZWnZHZDB3bkZmTHN3M1M1bE9NcWpGSTUwb093ejRNTmJrMEZvQVE9PQo="
+    }
+  }
+}
