@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Security fix: the summary model now only accepts requests from this app.",
-  "pub_date": "2026-09-11T20:51:05Z",
+  "version": "0.1.4",
+  "notes": "Assignments and discussions that showed as Other are now recognised. Summaries are shorter and stick to what the posting says, and are rewritten once in the background.",
+  "pub_date": "2026-09-14T17:05:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.3_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnU1MjVUaUgwVEVFbmlrUWkwelNxejF3b1QvZVRLTUVoemNVU0lOQ2k1cjhIcmVpcGMzVUlKTUhnMllNRWxPTUkvWVY1K2JjVEhWN0ZmYzVBWHRsdWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU5ODY1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKcHM2dE5XZERXd2k2NjFvSVpCbks0Qmt3OFVhUStZU2pCS1Q5M1FTWEdHNHNJT0h3aTBaMXk5T1d2TzdCSzNiV2VENFhlTndkVU9XZDBUeWJJR0lxQWc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.4_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnN3RVN3by9EaG4xSDl3REZERVdyejBtQUlTZThGb21neCtOd21Ec2RHTmdMbEl4bC96RUsxVlB4WERmMVM0WEZmUERVVVM0aDZLWEswZFdOMHd6NGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDA1NTU0CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKdFBsdzhpME50VFB6cnZibi9nNjI3TnY3ZjZzMWh4alpyNU5wY0RUN1dSa3lCV1R0UHF2M3Mydi9NZXk0WTZQSTFFd2dmY0JHTERCdWV1SThUa2JIRGc9PQo="
     }
   }
 }
