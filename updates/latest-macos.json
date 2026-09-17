@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Modules now show when they open instead of looking late, and quizzes and discussions say when they close. Rows are labelled Module and Discussion instead of Other.",
-  "pub_date": "2026-09-14T17:37:33Z",
+  "version": "0.1.6",
+  "notes": "Syncing runs in the background now, so the window keeps responding while your calendar downloads, and a download that stalls gives up after a minute. Modules sit in their own section at the bottom of Everything, you mark them Seen, and they no longer add to any of your numbers.",
+  "pub_date": "2026-09-17T17:05:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.5_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnQ2NXVNZGs2TmFNOHhsR2l5L1Y3RWlKTTQrV005UFZMREZ3eW9iWmQ5OE9Vc1pzWDBYUmMvMHVFTlllN1pqelltUG9mb3JBYzdvUXB4elloc2txVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDA3NDUzCWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKejVyWDI2OFYwaVB3ZlhwQWwrUTJMSXNQMG9jejVJdjFwVmRzUzJwRWdCakxJQXZ6MFBLdmgxam5aazZLS3M4bVkyYXhlYXlBdTd2aFd1dXN5UWlpQnc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.6_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJqOVk4N1pkNUJSeDlVaTRBSUdkaUl0aUtoTXIrZ1RoTDFPbjRBaWo3YVFGZXdibTdPRUhUZWo0aGRZeHhJMHdmWVc4UFNpVUt1aE1JcTQrMFVBQ1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY0NzU4CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKMk8zNGQwcWs4VTZDQzFBWElJNlgxM1JRSU9WVWo1SXRUbC9Yc1JqZW9tL0NkVHJjWlR0NHN4UDhYOWtWdFZaU0NpSzNZeWNOUEdMbnl2L2xxdDJSQVE9PQo="
     }
   }
 }
