@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Syncing runs in the background now, so the window keeps responding while your calendar downloads, and a download that stalls gives up after a minute. Modules sit in their own section at the bottom of Everything, you mark them Seen, and they no longer add to any of your numbers.",
-  "pub_date": "2026-09-17T17:05:58Z",
+  "version": "0.1.7",
+  "notes": "A course that arrived twice, once for its lecture and once for its lab, is now one course. Its work moves under that one course and keeps your notes and ticks.",
+  "pub_date": "2026-09-18T20:14:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.6_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJqOVk4N1pkNUJSeDlVaTRBSUdkaUl0aUtoTXIrZ1RoTDFPbjRBaWo3YVFGZXdibTdPRUhUZWo0aGRZeHhJMHdmWVc4UFNpVUt1aE1JcTQrMFVBQ1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY0NzU4CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKMk8zNGQwcWs4VTZDQzFBWElJNlgxM1JRSU9WVWo1SXRUbC9Yc1JqZW9tL0NkVHJjWlR0NHN4UDhYOWtWdFZaU0NpSzNZeWNOUEdMbnl2L2xxdDJSQVE9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.7_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnMrQkxEaVg4Q1pFREYxbHA5Mkh0NU5NZVRkTG83RHYwWEkzelJOekNnMTlMSFdudkI2QlNiVkFaazgwMkVFWkxpSUpheHRhZi9SM1hRbTByK0c5MndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzYyNDk2CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKb0tuWEFBZ0ZtQ2dHWjlvU3NzdStjdmY3azlLMTNsNXVBQ3VTM3RVa0ZQekxwOTJwK3Z3SXhaR0FNeFVBbTgwMGg2di9abUg1MEFLY1cvaWlDZ2NUQWc9PQo="
     }
   }
 }
