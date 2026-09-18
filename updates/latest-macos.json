@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "A course that arrived twice, once for its lecture and once for its lab, is now one course. Its work moves under that one course and keeps your notes and ticks.",
-  "pub_date": "2026-09-18T20:14:56Z",
+  "version": "1.0.0",
+  "notes": "Version 1.0. The plain-language summaries are gone, and the ones already saved go with them, so every item shows the posting as the calendar sent it. Nothing is downloaded after you install. A course that arrived twice, once for its lecture and once for its lab, is now one course. Modules are listed on their own and never counted, so the numbers count work only. Syncing runs in the background, so the window keeps working while your calendar downloads.",
+  "pub_date": "2026-09-18T21:18:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.1.7_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnMrQkxEaVg4Q1pFREYxbHA5Mkh0NU5NZVRkTG83RHYwWEkzelJOekNnMTlMSFdudkI2QlNiVkFaazgwMkVFWkxpSUpheHRhZi9SM1hRbTByK0c5MndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzYyNDk2CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKb0tuWEFBZ0ZtQ2dHWjlvU3NzdStjdmY3azlLMTNsNXVBQ3VTM3RVa0ZQekxwOTJwK3Z3SXhaR0FNeFVBbTgwMGg2di9abUg1MEFLY1cvaWlDZ2NUQWc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.0_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmtnK0M2MzQvcmVtaXY2TWNBQUx0THljczExUU1vYkVwWEQwVUxQMGJVTGY3QnNzdllSdWJiRUdSUHZxZmdDSWU4d1BTN3NrODBGTXQ2b3lxdUdkcHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzY2MzAwCWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKSFVmYlJoZy9aclkzNm5ldWp3UFFWeTcrK3YrbFVVWUZFa1l6SHdtT1pjME1NbjFVVVltOVFTR05iaUFmamlLRDBlcTNaRXlaVGYwc0hPTkZNNnI1RGc9PQo="
     }
   }
 }
