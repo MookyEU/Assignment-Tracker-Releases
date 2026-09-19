@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
-    "notes": "Version 1.0. The plain-language summaries are gone, and the ones already saved go with them, so nothing is downloaded after you install and every item is what the calendar sent: its title, its dates, its course, and a link straight to the posting. A course that arrived twice, once for its lecture and once for its lab, is now one course. Modules are listed on their own and never counted, so the numbers count work only. Syncing runs in the background, so the window keeps working while your calendar downloads.",
-    "pub_date": "2026-09-19T04:32:17Z",
-    "platforms": {
-        "windows-x86_64": {
-            "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.1_x64-updater.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmozN3NNVm9hWUE3SVRtTVh4TzhzYVRIeWpwL3UyZzJtVWJ6aHllallmV1VXalIxWkZZOCszRjNxNWtOamtFdGNMUHZ3YTAxeHVCUTd3Yy9hclJFUWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkyMTU0CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC4xX3g2NC1zZXR1cC5leGUKWEYxdVhOZGk1MW1JeUtLR2tTbGtLY1grNVFlVjh6T1hCaW9sV2d4OUV0WDRWM2o1V0JZeVlKZ252dEdwNjd0STA5QmlWc3VDWVI2Qk91YXZaOGhERFE9PQo="
-        }
-    }
+    "version":  "1.0.2",
+    "notes":  "You can delete an item you do not want. It stays gone when your calendar syncs, and Undo brings it back. Repeating calendar events that the app skips are now counted in Settings. The app keeps a small log file so that a problem can be traced.",
+    "pub_date":  "2026-09-19T15:37:02Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.2/AssignmentTracker_1.0.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm1HR0x1dk9lZlJNVFE4ZUtlZTEzZkZqR0w3M2YrNGl4aExoUkxEeng4SnNzMklnUzhqNGdsWGc3Q1RmR1FxMXVJSy83Y0hSQ2k4WFpISStyMjJVUFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMyMjIyCWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC4yX3g2NC1zZXR1cC5leGUKd2dweU15M01WY1FBaGpqWFZtQWVxeGlRRlFvYkw0QWFhRWQ0eEM5QzBUWGZDQ2ZXb05ScFpLSEpUZnREWUF1ZHJLMXdvZlVldXBDTFh6QmFKTnJURHc9PQo="
+                                         }
+                  }
 }
