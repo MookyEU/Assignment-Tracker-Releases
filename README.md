@@ -27,7 +27,7 @@ internet connection — the same connection the app needs to read your calendar.
 
 You will not need to come back here. The app checks once each time it starts and
 offers the update in **Settings → Updates**. It takes a few seconds and a few
-megabytes: about 4 MB on Windows, about 6 MB on macOS.
+megabytes: about 6 MB on either.
 
 Every update is signed, and the app refuses anything not carrying a signature it
 recognises.
@@ -40,14 +40,13 @@ removes this warning costs several hundred dollars a year.
 
 ## `updates/`
 
-That folder is how the app updates itself. It holds the manifest saying what the
-current version is, and the update package the app downloads when it finds one.
+That folder is how the app updates itself. It holds the manifests that say what
+the current version is on each platform. From 1.0.2 the Windows update is the
+installer on the release page itself; the older Windows packages and the macOS
+packages kept here are what earlier versions and the Mac build fetch.
 
-**It is not a download.** The package assumes the machine already runs the app,
-so it does nothing about the WebView2 runtime. Installed on its own, on a machine
-that does not have one, it produces an app that cannot draw its own window.
-
-Take the installer from the releases page instead.
+**Nothing in it is a download.** Take the installer from the releases page
+instead.
 
 ## Source
 
