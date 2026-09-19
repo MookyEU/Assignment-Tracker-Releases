@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.3",
-    "notes":  "You can add an item your calendar does not have. Use Add item, beside the search. A sync never changes it.",
-    "pub_date":  "2026-09-19T16:46:07Z",
+    "version":  "1.0.4",
+    "notes":  "On Windows, a fresh install starts when you sign in again. On a Mac, you can now delete an item and add your own.",
+    "pub_date":  "2026-09-19T21:58:10Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.3/AssignmentTracker_1.0.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qms0TlZZRHBmR3dHWDhka0xGelZja2Q0bG9KMFk4NnM2Wnptcnl1eEZGWFJCQjFLMjFUQk41VDZhelBOYzVGYXdnTWhzZGw3a0R1dE9uRWhEYll3TFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM2MzY3CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC4zX3g2NC1zZXR1cC5leGUKZit6MUNMMmRwbStNb0RJUFRPN1lIRW1VTE9SSDB1Rk14dS9TaTlYN3cyenpSR2IvY2U2ZFAzUVJUOGRzc2kzNWF6QkN1MnlWQ2w2M003T09TM21MQlE9PQo="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.4/AssignmentTracker_1.0.4_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdFQldtTHVUdWpyWlR4STluOCtyTzRVYmt2L1ZXWVdqd29MQTJSaWZOUFpHaXVLSzlBcS95d1BORnJqb1BTakFlSG16NElhWjNOWFF5V2pWVUl5REFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU1MDkwCWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC40X3g2NC1zZXR1cC5leGUKenMxOWhHM0hDQmlLYmU4Umtsa1FLMWlmM1pQRVpzOTFBdXhlNHl0aW5Ld3RFZUtRTkR5S3BpT2hVSHdydzArMWNMNms4OEZaUGNUcjR0QXRJZVhOQkE9PQo="
                                          }
                   }
 }
