@@ -12,16 +12,16 @@ No account, no server, nothing sent anywhere.
 
 | | file | size |
 |---|---|---|
-| Windows | `AssignmentTracker_<version>_x64-setup.exe` | about 210 MB |
+| Windows | `AssignmentTracker_<version>_x64-setup.exe` | about 6 MB |
 | macOS (Apple silicon) | `AssignmentTracker_<version>_macOS.dmg` | about 7 MB |
 
 Take the one for your system. Both are the same application and the same
 version.
 
-The Windows installer is the larger of the two because it carries Microsoft's
-WebView2 runtime, which macOS does not need — the machine may not have it, and
-without it the app has no way to draw its own window. Installing it once, from
-the file, means the install works on a machine that has never been online.
+The app draws its window with Microsoft's WebView2 runtime on Windows. Windows 11
+includes it, and almost every Windows 10 machine already has it. On the rare
+machine without it the installer fetches it for you, which needs a working
+internet connection — the same connection the app needs to read your calendar.
 
 ## Updating
 
@@ -43,10 +43,9 @@ removes this warning costs several hundred dollars a year.
 That folder is how the app updates itself. It holds the manifest saying what the
 current version is, and the update package the app downloads when it finds one.
 
-**It is not a download.** The package leaves out the WebView2 runtime, because a
-machine that already has the app already has it — which is why an update is a
-few megabytes rather than a few hundred. Installed on its own it produces a
-broken app on a clean machine, with no way to draw its own window.
+**It is not a download.** The package assumes the machine already runs the app,
+so it does nothing about the WebView2 runtime. Installed on its own, on a machine
+that does not have one, it produces an app that cannot draw its own window.
 
 Take the installer from the releases page instead.
 
