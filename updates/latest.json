@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.0",
-    "notes":  "Summaries are shorter and stick to what the posting actually says. The course list shows overdue, due soon and later as three counts. The app can update itself from now on, so this is the last time you need the full installer.",
-    "pub_date":  "2026-09-09T15:30:45Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_0.2.0_x64-updater.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qmd2TXpvbW1QeC9qOWhERnVEOUJpeVhIR0w1bTdCOXhYcXFLM0ptSlA4ZTU5bFZzV0lXMjRLZXUvM3ZHVnBRbHRSdTdWUDNWMTJGcTAycEdWWHpJUFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY3ODQ1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzAuMi4wX3g2NC1zZXR1cC5leGUKYUdGK2hlUlI0SlRqZ09vTmt6eHVLNndISzFKL2J6YThrdmhQU0JDcVZObG5KTHhuMStuU1k5Vys3TGZyaXd0SFhXeDFpV1orRXp3S2xNWEswKy85Q3c9PQo="
-                                         }
-                  }
+    "version": "1.0.1",
+    "notes": "Version 1.0. The plain-language summaries are gone, and the ones already saved go with them, so nothing is downloaded after you install and every item is what the calendar sent: its title, its dates, its course, and a link straight to the posting. A course that arrived twice, once for its lecture and once for its lab, is now one course. Modules are listed on their own and never counted, so the numbers count work only. Syncing runs in the background, so the window keeps working while your calendar downloads.",
+    "pub_date": "2026-09-19T04:32:17Z",
+    "platforms": {
+        "windows-x86_64": {
+            "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.1_x64-updater.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmozN3NNVm9hWUE3SVRtTVh4TzhzYVRIeWpwL3UyZzJtVWJ6aHllallmV1VXalIxWkZZOCszRjNxNWtOamtFdGNMUHZ3YTAxeHVCUTd3Yy9hclJFUWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkyMTU0CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC4xX3g2NC1zZXR1cC5leGUKWEYxdVhOZGk1MW1JeUtLR2tTbGtLY1grNVFlVjh6T1hCaW9sV2d4OUV0WDRWM2o1V0JZeVlKZ252dEdwNjd0STA5QmlWc3VDWVI2Qk91YXZaOGhERFE9PQo="
+        }
+    }
 }
