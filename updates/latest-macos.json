@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "On Windows, a fresh install starts when you sign in again. On a Mac, you can now delete an item and add your own.",
-  "pub_date": "2026-09-19T23:48:09Z",
+  "version": "1.0.5",
+  "notes": "The course and type menus when you add an item are drawn by the app now, so they match the rest of the window and work from the keyboard.",
+  "pub_date": "2026-09-20T00:21:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.4_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnBaRmd3TnZuQlZrd1pveEJkaU13eWtMci9acG9WaE5hd2hWMnBpaklpcWpHT1dqN0xPZjU1dlU4bllJTkVseEVuL05lWjFzWXh4a25sL3Bwczl2RUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYxNjc5CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKc25jZ1pJdTI0eDgrWlBEZ3VPSFoxang4SElPNHBSY29FRm5nRW1FeG1SOU5aTWE0OENMQ2dwVDBDZ0lqNXBnRnhUYU9KY1N1VzN0amtQczVPYThIQXc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.5_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnNPdkpIb01LaDBubGU3QmMrSk8xdG1Kdk5uM1VTR2RBQi8yajF0WTJNZWRHZC9adzN2a1pDc3d2RFAzUXRrUGkzVXZsSUd0eHJCSVZwSzNOMWFZVXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYzNjU1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKTU1SWTA4M2dxS3lhazRnREJ0RzcvNlczSUwxbVNNUmxaTmZmYmxJcFkzTzlIbUUvWXhnYWx3cGpkeDBERzF3S3F4SGljUGg1ZkQ1WXNtRlp2djJjRFE9PQo="
     }
   }
 }
