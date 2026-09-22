@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "The first time you open this version it asks you to sign in with your email. After that your ticks and notes follow you to your other computer, and so does your calendar. Nothing you have done is lost. An older version cannot open this version's data.",
-  "pub_date": "2026-09-22T15:58:15Z",
+  "version": "1.0.8",
+  "notes": "The app is now called Sybl, with a new icon to match. Nothing else has changed, and everything you have done is still here.",
+  "pub_date": "2026-09-22T16:07:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.7_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm9pdGJlYUxXQ3VEKzFYalpHTnplUXRERzlCY0Mya2FEZnpEMXh2S20xdFh3TStCU3FsYjJxUGNralc3WGdYcDNFNHZrQ3pIeHIvcGo5Q1dxbXhXZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyNjg1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKWVNnOWlpY2Q3MnZ2N3JINzlWbVpIdWxIZUdUUlFwODdNdTlQN3BWYThrbEtIK3crM0JnRkZTdnB3YjhDVm1kQ1lwUTJaZ2lqMmN0Um11UG16UlN0QVE9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.8_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnA4N1IvbnBzWTBNOGovdW5zbjh1TTFLZlNZSEdYcXFra0FEMlN6SkF6eHFaYkxlOGZFNlVhK0RVeTVRY0VYSUhiWVNmczdVdU1PUDdxT3lKb1poTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkzMjIyCWZpbGU6U3libC5hcHAudGFyLmd6CjAvUmJGZ3ZDU1BUV2xrQ1UwMWQxTFhkRm5vTXZMNHgrOHllVGhNM3RjS09sQUNsVFh6ZGFQWnZJUXUwaUtjdjQrMkg0MDVrZGlHQ0cweU10R24yRUFBPT0K"
     }
   }
 }
