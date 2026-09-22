@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "The app puts one icon in the menu bar instead of two. The window comes back down if you drag it up under the menu bar, and the title, the search box and the buttons along the top now make room for each other when the window is narrow, so they no longer overlap.",
-  "pub_date": "2026-09-21T19:01:40Z",
+  "version": "1.0.7",
+  "notes": "The first time you open this version it asks you to sign in with your email. After that your ticks and notes follow you to your other computer, and so does your calendar. Nothing you have done is lost. An older version cannot open this version's data.",
+  "pub_date": "2026-09-22T15:58:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.6_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmpyZ2hCMmZXb1V4TUJId0xZVWtHNEtZMy9Id3V2Rzg1Rk5rdmExMjVnbW9CbjZ2UnZZSURXY2RuZ052dHhkSWNVK1VJS080d1JNaEJ4akg2MnkxeFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE3MjkxCWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKMTRpcXVseENxRFJlajNwdURmYWxyN250K0NscXptaXhIUzJ2YVErZjR0SGpyMGlqaGEvcDRkcStFcXlMakE1dkNTTDg2cHpucDFSaUhQTytOc1FzRGc9PQo="
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/AssignmentTracker_1.0.7_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm9pdGJlYUxXQ3VEKzFYalpHTnplUXRERzlCY0Mya2FEZnpEMXh2S20xdFh3TStCU3FsYjJxUGNralc3WGdYcDNFNHZrQ3pIeHIvcGo5Q1dxbXhXZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkyNjg1CWZpbGU6QXNzaWdubWVudCBUcmFja2VyLmFwcC50YXIuZ3oKWVNnOWlpY2Q3MnZ2N3JINzlWbVpIdWxIZUdUUlFwODdNdTlQN3BWYThrbEtIK3crM0JnRkZTdnB3YjhDVm1kQ1lwUTJaZ2lqMmN0Um11UG16UlN0QVE9PQo="
     }
   }
 }
