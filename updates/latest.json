@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.4",
-    "notes":  "On Windows, a fresh install starts when you sign in again. On a Mac, you can now delete an item and add your own.",
-    "pub_date":  "2026-09-19T21:58:10Z",
+    "version":  "1.0.7",
+    "notes":  "The first time you open this version it asks you to sign in with your email. After that your ticks and notes follow you to your other computer, and so does your calendar. Nothing you have done is lost. An older version cannot open this version\u0027s data.",
+    "pub_date":  "2026-09-22T04:23:08Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.4/AssignmentTracker_1.0.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdFQldtTHVUdWpyWlR4STluOCtyTzRVYmt2L1ZXWVdqd29MQTJSaWZOUFpHaXVLSzlBcS95d1BORnJqb1BTakFlSG16NElhWjNOWFF5V2pWVUl5REFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU1MDkwCWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC40X3g2NC1zZXR1cC5leGUKenMxOWhHM0hDQmlLYmU4Umtsa1FLMWlmM1pQRVpzOTFBdXhlNHl0aW5Ld3RFZUtRTkR5S3BpT2hVSHdydzArMWNMNms4OEZaUGNUcjR0QXRJZVhOQkE9PQo="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.7/AssignmentTracker_1.0.7_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJXckVSQnZnNnFSZ1JLb2hvNGtqaVd4RUFiUUJtRmh1MzRiQlhFYUc0YkpHUVh2WHNxbk55ekVrRmJGR2h3ZDU4Uy9TL1dHSHB0U3VFMFpXRFFaaHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDUwOTg4CWZpbGU6QXNzaWdubWVudCBUcmFja2VyXzEuMC43X3g2NC1zZXR1cC5leGUKZWQ2QXFkN3FGczI3YWpxcEFENFlBUU9sQk5wdWtRblFLa0lKb1dLT0dUdTZYM1FEQ3BDd0VmeXhKV1dpL1MyV3hKQVI4NkFydnBIUWhSSUFWZ1NWQUE9PQo="
                                          }
                   }
 }
