@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "On a Mac, Sybl is now signed and checked by Apple, so a download opens without a warning, and it no longer asks for access to your keychain. After this update a Mac asks you to sign in once more with an emailed code, and nothing waiting to sync is lost. The sync line now says how many items were added and updated.",
-  "pub_date": "2026-09-24T18:01:03Z",
+  "version": "1.0.10",
+  "notes": "On a Mac, clicking Sybl in the Dock after closing its window now brings it back. Coming from an older version? You also get a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
+  "pub_date": "2026-09-24T20:00:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.9_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJKQzdzNXFkdG1wZW9EZmE3c0NVNTVRMUg0QXpJVEM0cEQxQ2NxQk1IV3JtdmpFNHhZc3YyL0VTc29NV0R6QWZBNjdNMjA1Kzl5Z1NUVUpjK2dNTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjcyNzE4CWZpbGU6U3libC5hcHAudGFyLmd6CkNJUlc5WCtqVXNPNVRXNWFIRlFFcit3ZU4rT05tbFNPei81UjJISjBNeWR1SkdneEdjZU5Wcys1aHZMZ09uOGQ0cmVNZSs1WkVrNGdkQkczelU2WEJBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.10_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdTc3lMdG1xRFljc0FVK3NFTDJqOVcweVpsQnFVYXZlUzFvVEY4SlZ2N1FnQVhrQzFJNHppMXYrSW1nOXZMOVdkVXcreHdRL3dCcGRCSDhsemNQaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc5ODc3CWZpbGU6U3libC5hcHAudGFyLmd6CjQvK3N3UmRvMkYyVE5leko1RzJwdDd5aHpaVTljd0g4VUluVjJ4bTBPL2txVThsSkI0ZEFmOEYrYzdYTHpxblRvbkE3bTlMcW9kcDZLV1ArWklRbUJRPT0K"
     }
   }
 }
