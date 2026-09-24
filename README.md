@@ -1,92 +1,58 @@
 <img src="sybl.png" alt="" width="72" align="left">
 
-# Sybl | downloads
+# Sybl
 
-**A coursework tracker for Windows and macOS.** It reads your Brightspace (D2L)
-calendar and sorts your work by how soon it is due. Your coursework lives on your
-own machine.
+**Everything you have due, in one place.**
 
 <br clear="left">
 
+Sybl is a coursework tracker for students. Connect it to your Brightspace
+calendar and it gathers every assignment, quiz and deadline from all of your
+courses into one clear list, sorted by what is due next. No more clicking
+through each course to work out what is coming up.
+
 ## Download
 
-Current version: **1.0.9** on macOS. Windows is on **1.0.8** until its 1.0.9
-installer is added, later today.
+| | |
+|---|---|
+| **Mac** (M1 or newer) | **[Download Sybl for Mac](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.9/Sybl_1.0.9_macOS.dmg)** (version 1.0.9) |
+| **Windows** (10 or 11) | **[Download Sybl for Windows](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.8/Sybl_1.0.8_x64-setup.exe)** (version 1.0.8, with 1.0.9 coming soon) |
 
-| | download | size |
-|---|---|---|
-| **Windows** (10 or 11, 64-bit) | **[Sybl_1.0.8_x64-setup.exe](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.8/Sybl_1.0.8_x64-setup.exe)** | 6 MB |
-| **macOS** (Apple silicon) | **[Sybl_1.0.9_macOS.dmg](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.9/Sybl_1.0.9_macOS.dmg)** | 8 MB |
+## How it helps
 
-Take the one for your system. Both are the same application, built from the same
-source. The [releases page](../../releases) has the notes and the checksums for
-each version: [1.0.9](../../releases/tag/v1.0.9) for macOS, and
-[1.0.8](../../releases/tag/v1.0.8) for Windows until 1.0.9 has both.
+- **Know what to do next.** *Today* and *This week* show only what is coming up,
+  and anything overdue stands out.
+- **Every course at a glance.** Each course shows what is overdue, what is due
+  this week and what can wait.
+- **Deadlines on the right day.** Something due at 11:59pm shows up on the day
+  it is actually due.
+- **Tick things off** as you finish them, and watch the list get shorter.
+- **Make it yours.** Add notes, fix a title or a date, or add something your
+  course calendar does not have. Your changes stay put when the calendar updates.
+- **Always current.** Sybl checks your calendar every day on its own.
+- **On every computer you use.** Sign in, and your ticks and notes follow you from
+  your laptop to your desktop.
 
-**Apple silicon only on the Mac.** That is any Mac with an M1 chip or later,
-which is every Mac sold since late 2020. There is no Intel build.
+## Getting started
 
-## Before you install
+1. **Install it.** On a Mac, open the download and drag Sybl into Applications.
+   On Windows, run the installer. If Windows says the publisher is unknown,
+   choose **More info**, then **Run anyway**.
+2. **Sign in with your email.** Sybl sends you a code to type in.
+3. **Add your calendar.** In Brightspace, open **Calendar**, choose
+   **Subscribe**, and paste the link it gives you into Sybl.
 
-**The first time you open it, it asks you to sign in with your email.** A window
-of its own opens instead of the app: your email address, a code sent to it, and
-then your calendar address. There is no way past that step, so have your email to
-hand. Signing in is what lets your work follow you from one computer to another.
+That is all. Sybl keeps itself up to date and lets you know in Settings when a
+new version is ready.
 
-Then it asks for your Brightspace calendar address, which you copy from
-Brightspace itself: **Calendar → Subscribe**, and copy the link it gives you.
+## Your privacy
 
-**On macOS it opens with a double-click.** From 1.0.9 the Mac app is signed with
-a Developer ID and checked by Apple, so there is no warning. If you were signed
-in on an earlier version, it asks you to sign in once more, and everything you did
-is still there.
+Your coursework stays on your computer. When you sign in, Sybl saves what you
+have done in it (your ticks, notes and changes) and your calendar link to your
+account, so your other computers can have them too. It never sees your grades.
+Your account is stored in Canada, and you can download everything in it, or
+delete it, from Settings at any time.
 
-**The Windows installer is not signed with a certificate**, so Windows says so
-once: SmartScreen reports that the publisher is unknown. Choose **More info**,
-then **Run anyway**.
+---
 
-On Windows the app draws its window with Microsoft's WebView2 runtime. Windows 11
-includes it and almost every Windows 10 machine has it already; on a machine
-without it, the installer fetches it.
-
-## What is on your machine, and what is not
-
-Your coursework, your notes and your ticks are kept on your own machine, in a
-database it keeps ten daily backups of. What your calendar says never leaves it.
-
-**When you sign in**, and only then, these go to the account so your other
-computer can have them: your email address, what you ticked, what you typed (your
-notes and the names of items you added by hand), and the address of your
-calendar. Not what your calendar says, and nothing about grades. It is stored in
-Canada. The sign-in emails pass through Twilio SendGrid in the United States,
-which sees your address and the code and nothing else.
-
-From **Settings** you can download everything the account holds, sign a device
-out, or delete the account and everything in it.
-
-## Updating
-
-You will not need to come back here. The app checks each time it starts and
-offers the update in **Settings**. It takes a few seconds and about 7 MB.
-
-Every update is signed, and the app refuses anything not carrying a signature it
-recognises.
-
-## Older versions
-
-Every release is on the [releases page](../../releases). Note that **a newer
-version's data cannot be opened by an older one**: going back means restoring one
-of the app's own daily backups, not just installing an older file.
-
-## `updates/`
-
-That folder is how the app updates itself. It holds the manifests saying what the
-current version is on each platform, and the macOS packages the Mac build
-fetches. **Nothing in it is a download**; take the installer from the link above.
-
-## About this repository
-
-It holds release files and nothing else. The source is not public. The repository
-is still called *Assignment-Tracker-Releases*: the app was renamed to Sybl at
-1.0.8, and the address stayed as it was so that every installed copy keeps
-finding its updates.
+<sub>The `updates` folder is how Sybl updates itself, and there is nothing in it to download. Older versions are on the [releases page](../../releases).</sub>
