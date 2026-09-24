@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Sybl now asks which classes you are in, and puts the rest away in Archived, so classes from past terms stop filling your list. You can change your choice any time in Settings, under Courses. Coming from an older version? You also get a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
-  "pub_date": "2026-09-24T21:07:04Z",
+  "version": "1.0.12",
+  "notes": "Settings has moved: click your name at the bottom left, then Settings. It is now split into General, Course management, Account, and Data and safety, so everything is easier to find. Coming from an older version? You also get a way to choose which classes you are in, a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
+  "pub_date": "2026-09-24T23:22:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.11_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJQV2RqenZJbXBKMm8zK2F5US9EaE5LRDVMWXNFTzh5a0dtSW11TTZpZFJ6U29VclBtK3Fod2NxanRxSUZSNGpMMnFVdWt6Uzh2UWJ5cGxTODRZT2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjgzODgxCWZpbGU6U3libC5hcHAudGFyLmd6CnNST0dvelFONjJtb2dMMFBtcHo1cXRZWWlUaFR3U0IrR1FNN2NvbnhOWU4vWmZTaW9ZWEVtSWIyYTU5WU1mb1REUHp0SWpEY3R0ek02K0wxRERyMENBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.12_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm53R09BSGdmUDlrUXVjRWkwcXRWRFZ2YkZLaEt6TS9JYzRHTEFCMW5rZVlwdFJuZVl2Y0xDVVFEV0pOREVDQStUZDE1RkhSVkxpeFl6L0JrQ1BwMlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjkxOTg3CWZpbGU6U3libC5hcHAudGFyLmd6CllxejFDUmtwcndrNkgremMvbDlsakxWUlF1RkhUNy9Ua0dEZ0tVT2tkcnp6WHloc01GSDdZaGRHTDcrTHBPcTdLNGM3VFoyTnRVemZUUHBvL2wwVURnPT0K"
     }
   }
 }
