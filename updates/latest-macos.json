@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "The app is now called Sybl, with a new icon to match. Nothing else has changed, and everything you have done is still here.",
-  "pub_date": "2026-09-22T16:07:11Z",
+  "version": "1.0.9",
+  "notes": "On a Mac, Sybl is now signed and checked by Apple, so a download opens without a warning, and it no longer asks for access to your keychain. After this update a Mac asks you to sign in once more with an emailed code, and nothing waiting to sync is lost. The sync line now says how many items were added and updated.",
+  "pub_date": "2026-09-24T18:01:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.8_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnA4N1IvbnBzWTBNOGovdW5zbjh1TTFLZlNZSEdYcXFra0FEMlN6SkF6eHFaYkxlOGZFNlVhK0RVeTVRY0VYSUhiWVNmczdVdU1PUDdxT3lKb1poTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkzMjIyCWZpbGU6U3libC5hcHAudGFyLmd6CjAvUmJGZ3ZDU1BUV2xrQ1UwMWQxTFhkRm5vTXZMNHgrOHllVGhNM3RjS09sQUNsVFh6ZGFQWnZJUXUwaUtjdjQrMkg0MDVrZGlHQ0cweU10R24yRUFBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.9_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnJKQzdzNXFkdG1wZW9EZmE3c0NVNTVRMUg0QXpJVEM0cEQxQ2NxQk1IV3JtdmpFNHhZc3YyL0VTc29NV0R6QWZBNjdNMjA1Kzl5Z1NUVUpjK2dNTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjcyNzE4CWZpbGU6U3libC5hcHAudGFyLmd6CkNJUlc5WCtqVXNPNVRXNWFIRlFFcit3ZU4rT05tbFNPei81UjJISjBNeWR1SkdneEdjZU5Wcys1aHZMZ09uOGQ0cmVNZSs1WkVrNGdkQkczelU2WEJBPT0K"
     }
   }
 }
