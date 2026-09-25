@@ -15,8 +15,10 @@ through each course to work out what is coming up.
 
 | | |
 |---|---|
-| **Mac** (M1 or newer) | **[Download Sybl for Mac](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.13/Sybl_1.0.13_macOS.dmg)** (version 1.0.13) |
-| **Windows** (10 or 11) | **[Download Sybl for Windows](https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.13/Sybl_1.0.13_x64-setup.exe)** (version 1.0.13) |
+| **Mac** (M1 or newer) | **[Download Sybl for Mac](https://sybl.ca/download/mac)** |
+| **Windows** (10 or 11) | **[Download Sybl for Windows](https://sybl.ca/download/windows)** |
+
+Both links always give you the newest version. Sybl's home is **[sybl.ca](https://sybl.ca)**.
 
 ## How it helps
 
