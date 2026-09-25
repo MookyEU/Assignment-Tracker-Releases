@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "Settings has moved: click your name at the bottom left, then Settings. It is now split into General, Course management, Account, and Data and safety, so everything is easier to find. Coming from an older version? You also get a way to choose which classes you are in, a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
-  "pub_date": "2026-09-24T23:22:34Z",
+  "version": "1.0.13",
+  "notes": "Settings now has a Close button at the top right, and clicking a course or a view takes you straight back to your work. Coming from an older version? You also get Settings in four tabs (click your name at the bottom left), a way to choose which classes you are in, a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
+  "pub_date": "2026-09-25T03:48:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.12_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm53R09BSGdmUDlrUXVjRWkwcXRWRFZ2YkZLaEt6TS9JYzRHTEFCMW5rZVlwdFJuZVl2Y0xDVVFEV0pOREVDQStUZDE1RkhSVkxpeFl6L0JrQ1BwMlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjkxOTg3CWZpbGU6U3libC5hcHAudGFyLmd6CllxejFDUmtwcndrNkgremMvbDlsakxWUlF1RkhUNy9Ua0dEZ0tVT2tkcnp6WHloc01GSDdZaGRHTDcrTHBPcTdLNGM3VFoyTnRVemZUUHBvL2wwVURnPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.13_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmlPbTQ5NGc5dTlSV2YzNmQ4bmtwYkZjZjV0RUpBNDBsQkUxaWZrWXk1dG1sUGhXMmNzYjVTRDh3aERvdFkwQ1hkS28wV0VCMlFIMXNOK3U3dmFkMmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzA3OTY1CWZpbGU6U3libC5hcHAudGFyLmd6CmxEcVpabGY5YlN6MFZhdWJKdE4vbGpnVmhEMWdiUnBzdlB0S05ISGtuMHczU3kxdGlZQzRSamFmQzZvSjhPU1pxKzZpVDBkN1Y2SzNYK245S0cwZkRBPT0K"
     }
   }
 }
