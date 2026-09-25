@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.8",
-    "notes":  "The app is now called Sybl, with a new icon to match. Nothing else has changed, and everything you have done is still here.",
-    "pub_date":  "2026-09-22T15:27:59Z",
+    "version":  "1.0.13",
+    "notes":  "Settings now has a Close button at the top right, and clicking a course or a view takes you straight back to your work. Coming from an older version? You also get Settings in four tabs (click your name at the bottom left), a way to choose which classes you are in, a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
+    "pub_date":  "2026-09-25T02:51:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.8/Sybl_1.0.8_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmkyZU4wTlRHRGVSdEJjUUNkSWwwTjJrL25HaGRsb0RuR1lvaHBYeDJ2aXdMQWdocnQ0bDF5djBZMkl6TkcyU2c4ekdBQjBPeGhDRHp4aENENUJkWGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkwODc5CWZpbGU6U3libF8xLjAuOF94NjQtc2V0dXAuZXhlCjNQOUxYeGRpc0JMK1NCdEs0YzUwbFY5MmJqNWlDMlZXbHdOcjVvSkJ3R2IxVXMyK3JKdS96enJUZEduQ2ZnanR3Uy9Jd0NDZktRRCtIWmp2akpneUJnPT0K"
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.13/Sybl_1.0.13_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnFTRzQ5WDJHTGpFcTBRWGQ0bkx5Z2VBZmM5bVRYUXdXSGQwQ3AxbG9IYnZwd0J4YTRpSkkxeFlCUDU3cHp2VG9iYmRPczhlUmxXMWk2MFkwUGhDQXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzA0NzEyCWZpbGU6U3libF8xLjAuMTNfeDY0LXNldHVwLmV4ZQpLNkRSUXlVc0xDZlBDZGFiY2VaTDFDRENSVS81YXl5OCtDZ0MxN24vdXI0L2JVdW93dEJFRzAyVHFLOC9EMUowREZnZnNUa0VNbHdjejZuaGJFMVdEQT09Cg=="
                                          }
                   }
 }
