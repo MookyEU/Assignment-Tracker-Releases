@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "A calmer Sybl. Choose a light or dark look in Settings, which now sits in the sidebar. Your list marks the next thing due with Next up, a small week strip at the top shows what is due each day, and due dates are picked from a pop-up calendar. Notices at the end of a term are shorter and go away once you answer. Plus many small fixes.",
-  "pub_date": "2026-10-05T00:59:49Z",
+  "version": "1.0.15",
+  "notes": "Opening an item now shows it plainly: its name, what kind of work it is, when it is due in words, and its course, with Mark done at the top. Each item in your list has a small icon for its type, and links to your course site say where they go. This update also includes a security fix for Sybl's connections. Plus small fixes.",
+  "pub_date": "2026-10-05T17:04:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.14_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm1MTys4ejhVdFZ0eUZJYlZtN3Y2UXpzd1N6SkRuTXB3RjRXNUpxWGp6R1RzTlhxK002Y001SFdNWFJIdVZKRVhEV0ZSOVdhMks2elRub3NXRDVzQlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTYxODQzCWZpbGU6U3libC5hcHAudGFyLmd6CklBS2Q4WHE0OW9BUGxtNDVQRVk1ckJvSVVVR1lFK2Y5eDgzZk5JVEljQTR5VS9nMWRYZW5EYUUvVEdMRXV5MDZmcEwzRHBLekVMY0Nzb1RiTUc4SUJnPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.15_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnMwd3BvQXlMelJTb3hmZ2NYdVdFU1hwdVpleEFYTHdrV0gyem11S3hQUHJqSGpIWVkyZUNzVUJjRkpmcUNKR3pza1FJRzVqVHd5b2I3cklWMEJwSkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NzUyCWZpbGU6U3libC5hcHAudGFyLmd6CnBCbzdnWTNQZDZzUHJUTUJDUkErTjYrVkN2c2I2QkQ5NWVvY3V3QUFCMnRRODZCRWJnSENpNzViRUcrZ29uSndHcHFlSEdIY2N4R01zb1VndCt6MUJBPT0K"
     }
   }
 }
