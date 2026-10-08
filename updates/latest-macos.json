@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "Opening an item now shows it plainly: its name, what kind of work it is, when it is due in words, and its course, with Mark done at the top. Each item in your list has a small icon for its type, and links to your course site say where they go. This update also includes a security fix for Sybl's connections. Plus small fixes.",
-  "pub_date": "2026-10-05T17:04:49Z",
+  "version": "1.0.16",
+  "notes": "The left side is simpler: Assignments, Completed and Archived. The week strip at the top now shows up to two weeks, and choosing a day brings that day's work forward in your list. Sybl now says plainly when it last synced, and if a sync fails it tries again half an hour later instead of the next day. Set-up goes one step at a time, Settings is calmer, and Sybl asks about finished classes once. Plus small fixes.",
+  "pub_date": "2026-10-08T02:00:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.15_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnMwd3BvQXlMelJTb3hmZ2NYdVdFU1hwdVpleEFYTHdrV0gyem11S3hQUHJqSGpIWVkyZUNzVUJjRkpmcUNKR3pza1FJRzVqVHd5b2I3cklWMEJwSkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NzUyCWZpbGU6U3libC5hcHAudGFyLmd6CnBCbzdnWTNQZDZzUHJUTUJDUkErTjYrVkN2c2I2QkQ5NWVvY3V3QUFCMnRRODZCRWJnSENpNzViRUcrZ29uSndHcHFlSEdIY2N4R01zb1VndCt6MUJBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.16_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qmt2clBqbFowY3lEdnk2T1FsaCswUUt6VTZzSTA1M1VWZ1pwc3cvMkEvcE9YbGRhWGRVdnF4RVVNU3ZqNEpaUzBVYVg1Mmd5RVlYalQzVzhOc0xJOUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDI0Njk0CWZpbGU6U3libC5hcHAudGFyLmd6CmlzbGxnZjkrcDZWMjZqZEpOdk1jMU8rcFp5TVBNMVNDY25CbUwzL3hRTTR3SkRxZFNGVzdOVEh4Q1l2M28raHY5SGx5Vmp6ZmtMUXFlVkJmeGs4OEFnPT0K"
     }
   }
 }
