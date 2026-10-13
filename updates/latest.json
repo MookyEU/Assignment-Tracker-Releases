@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.13",
-    "notes":  "Settings now has a Close button at the top right, and clicking a course or a view takes you straight back to your work. Coming from an older version? You also get Settings in four tabs (click your name at the bottom left), a way to choose which classes you are in, a tidier window and a clearer sync line, and on a Mac, no more security warnings or keychain pop-ups (Sybl will ask you to sign in once more).",
-    "pub_date":  "2026-09-25T02:51:53Z",
+    "version":  "1.0.17",
+    "notes":  "New: Posts. Paste the RSS link from any course\u0027s Announcements in the Learning Hub once, and Sybl keeps your instructors\u0027 announcements for every class, checking for new ones each time it syncs. Each class has its own page with its posts in full, older months tucked away, a search, and every link the class has shared in one list. Links to your course site now say \"Open in the Learning Hub\". Sybl is also more careful with very large calendar downloads. Plus small fixes.",
+    "pub_date":  "2026-10-13T17:07:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.13/Sybl_1.0.13_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnFTRzQ5WDJHTGpFcTBRWGQ0bkx5Z2VBZmM5bVRYUXdXSGQwQ3AxbG9IYnZwd0J4YTRpSkkxeFlCUDU3cHp2VG9iYmRPczhlUmxXMWk2MFkwUGhDQXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzA0NzEyCWZpbGU6U3libF8xLjAuMTNfeDY0LXNldHVwLmV4ZQpLNkRSUXlVc0xDZlBDZGFiY2VaTDFDRENSVS81YXl5OCtDZ0MxN24vdXI0L2JVdW93dEJFRzAyVHFLOC9EMUowREZnZnNUa0VNbHdjejZuaGJFMVdEQT09Cg=="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.17/Sybl_1.0.17_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnQ4WGw5cWUrZDN3MjR5V2p2ZitPaTdWRHRDbzV3NnVBbzRnbUJGMnBydzNtV3Z0c1ZGbk1ZbHJHL1IyTHBrREpvZU4yU0R1MUh3TXFnWDlhRGpFdVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTExMjM4CWZpbGU6U3libF8xLjAuMTdfeDY0LXNldHVwLmV4ZQo2c2tEa29Lbk5lZlUyTkZWUlB0ZWt5TUREdUs2SkFiZjJwSEs5MWpxTkFHRXpEejNtYlhGLzgvYzR2cDk4Z0ZEUGpkdVd6aVNVbklKSE9Lc0lQQ0VDdz09Cg=="
                                          }
                   }
 }
