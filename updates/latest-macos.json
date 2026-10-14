@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "New: Posts. Paste the RSS link from any course's Announcements in the Learning Hub once, and Sybl keeps your instructors' announcements for every class, checking for new ones each time it syncs. Each class has its own page with its posts in full, older months tucked away, a search, and every link the class has shared in one list. Links to your course site now say \"Open in the Learning Hub\". Sybl is also more careful with very large calendar downloads. Plus small fixes.",
-  "pub_date": "2026-10-13T16:15:59Z",
+  "version": "1.0.18",
+  "notes": "Sybl now keeps itself up to date: it downloads a new version in the background and installs it after you close its window, while it keeps running in the menu bar or tray, so you never have to stop what you are doing. Sync now is also in the left side, just above Settings, once your calendar is set up. And Sybl looks a little sharper: tidier spacing and alignment, faint lines to guide your eye between groups and tasks, and Overdue now looks like the other groups. Plus small fixes.",
+  "pub_date": "2026-10-14T17:36:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.17_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdXVjhkYml2Z0J6MXh3bmtTYXNHVnRhQ0wwMmQ5cXRXMkZrY1U0dGI0TU5JVFJ3YmxIcVZyMjN4RC90OENKUHJHTFIzN2tVZ3dFRjZUdWVEeEM4ZmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTA4MDE3CWZpbGU6U3libC5hcHAudGFyLmd6Ck0rS3ZvRldHVzR4TXhaY3FUQWx0ZDFPN09HMXBzZTdIeHM3T0RhM1JwTEFDMWo5M0UzWEx2MEFjbHpnMmhaRVg5UHZwZk9yb3hGTCtQbkJKYmo1a0NBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.18_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdraEoyL2pJeDJKMjROMU5DcUN3bFBGL21RcnJzVHVZMitseWlHU2N1WENmVGFEQ1VCYTNWc1FpajRoenZsRXhNTS9HR2o3cXZsb0NmT2F0L2t5SEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk5MjcxCWZpbGU6U3libC5hcHAudGFyLmd6CnRXZ2N5YXM3eUpsdkZMazBvejlTS3BvMkhid0cxREJKMXpFYlVxdTVUcVJtNkcveHU3TmFaZ0ZRSDhCV1g4aHZqa2ZvcUU0NnRaVUhmNzNZTkRNWEJBPT0K"
     }
   }
 }
