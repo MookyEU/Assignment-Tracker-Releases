@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "Sybl now keeps itself up to date: it downloads a new version in the background and installs it after you close its window, while it keeps running in the menu bar or tray, so you never have to stop what you are doing. Sync now is also in the left side, just above Settings, once your calendar is set up. And Sybl looks a little sharper: tidier spacing and alignment, faint lines to guide your eye between groups and tasks, and Overdue now looks like the other groups. Plus small fixes.",
-  "pub_date": "2026-10-14T17:36:58Z",
+  "version": "1.0.19",
+  "notes": "Posts now shows each announcement as a card, with its first few lines and Show more to read the rest, and a class's list of shared links no longer repeats its Learning Hub links. The faint lines between groups and tasks are softer and fade out to the right.",
+  "pub_date": "2026-10-14T22:06:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.18_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmdraEoyL2pJeDJKMjROMU5DcUN3bFBGL21RcnJzVHVZMitseWlHU2N1WENmVGFEQ1VCYTNWc1FpajRoenZsRXhNTS9HR2o3cXZsb0NmT2F0L2t5SEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk5MjcxCWZpbGU6U3libC5hcHAudGFyLmd6CnRXZ2N5YXM3eUpsdkZMazBvejlTS3BvMkhid0cxREJKMXpFYlVxdTVUcVJtNkcveHU3TmFaZ0ZRSDhCV1g4aHZqa2ZvcUU0NnRaVUhmNzNZTkRNWEJBPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.19_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnFReHJzSld5aUJLQm56dXFuTmhSVTNOdkFiTmxlS0FzZWFWMVZBd2lrY3V1VGpYZnhSMEpaNWRJdlFSbkRtZXFUSHdNOGxXYXpkSkMrbEtBVmczR0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE1NDIxCWZpbGU6U3libC5hcHAudGFyLmd6CmV6ZEVCbi9Ha21hazdGY2JzMEsySll1c1crcy9mMWtwaFJkUFkyYVpSMytIUGUvWVlFRFVQbGw3SmRoQWVxUzJ5dzh4eHNBekREbW9yU3RvNFZ2OURRPT0K"
     }
   }
 }
