@@ -1,11 +1,11 @@
 {
-  "version": "1.0.19",
-  "notes": "Posts now shows each announcement as a card, with its first few lines and Show more to read the rest, and a class's list of shared links no longer repeats its Learning Hub links. The faint lines between groups and tasks are softer and fade out to the right.",
-  "pub_date": "2026-10-14T22:06:05Z",
+  "version": "1.0.20",
+  "notes": "Sybl now asks before it installs its updates by itself, and you can change your answer in Settings, under Updates. Settings shows your calendar by its website, keeping its private link out of sight, and your backups now cover each of the last ten days. Setting up tells you how your first calendar read went, the window stays quick while Sybl syncs, and searching Posts is faster. Plus small fixes.",
+  "pub_date": "2026-10-24T18:50:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.19_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnFReHJzSld5aUJLQm56dXFuTmhSVTNOdkFiTmxlS0FzZWFWMVZBd2lrY3V1VGpYZnhSMEpaNWRJdlFSbkRtZXFUSHdNOGxXYXpkSkMrbEtBVmczR0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE1NDIxCWZpbGU6U3libC5hcHAudGFyLmd6CmV6ZEVCbi9Ha21hazdGY2JzMEsySll1c1crcy9mMWtwaFJkUFkyYVpSMytIUGUvWVlFRFVQbGw3SmRoQWVxUzJ5dzh4eHNBekREbW9yU3RvNFZ2OURRPT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.20_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmhoRFp4TlFzbExYYXl1UGNjS2xkRFlpYnZSbUV3UEl3U1ozcjJlQVpXMVB3SExTSmNwalFGUDRnQmkyenNWZGdkTkgxdk1VVDdTRFV6TmhOanZKeHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3NzA3CWZpbGU6U3libC5hcHAudGFyLmd6CjJQQ3dLMXVTbGxhSmwySzdRTlVFd1hPTTRZZlhBS3B1R2Q1bk95QVEySmZ0ZVhHbm8yMURlNmVoa2orcFMvMjlHM25Yalg2SXRpdnptb1JnTEZKaEJ3PT0K"
     }
   }
 }
