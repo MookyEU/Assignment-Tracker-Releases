@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.17",
-    "notes":  "New: Posts. Paste the RSS link from any course\u0027s Announcements in the Learning Hub once, and Sybl keeps your instructors\u0027 announcements for every class, checking for new ones each time it syncs. Each class has its own page with its posts in full, older months tucked away, a search, and every link the class has shared in one list. Links to your course site now say \"Open in the Learning Hub\". Sybl is also more careful with very large calendar downloads. Plus small fixes.",
-    "pub_date":  "2026-10-13T17:07:19Z",
+    "version":  "1.0.20",
+    "notes":  "Sybl now asks before it installs its updates by itself, and you can change your answer in Settings, under Updates. Settings shows your calendar by its website, keeping its private link out of sight, and your backups now cover each of the last ten days. Setting up tells you how your first calendar read went, the window stays quick while Sybl syncs, and searching Posts is faster. Plus small fixes.",
+    "pub_date":  "2026-10-24T21:41:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.17/Sybl_1.0.17_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnQ4WGw5cWUrZDN3MjR5V2p2ZitPaTdWRHRDbzV3NnVBbzRnbUJGMnBydzNtV3Z0c1ZGbk1ZbHJHL1IyTHBrREpvZU4yU0R1MUh3TXFnWDlhRGpFdVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTExMjM4CWZpbGU6U3libF8xLjAuMTdfeDY0LXNldHVwLmV4ZQo2c2tEa29Lbk5lZlUyTkZWUlB0ZWt5TUREdUs2SkFiZjJwSEs5MWpxTkFHRXpEejNtYlhGLzgvYzR2cDk4Z0ZEUGpkdVd6aVNVbklKSE9Lc0lQQ0VDdz09Cg=="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.20/Sybl_1.0.20_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnI5NWx0ME1qeWU3VG9xWXRBcGcvd0oyMnFtcVVCUUhhM1Y4WWNNckU4Vy9UU0JKYTl3enhWajRwVGJxYzNmUlNIZlk0WFRBSHV5N0JBdEEwWTdjZHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODc4MDYzCWZpbGU6U3libF8xLjAuMjBfeDY0LXNldHVwLmV4ZQp2bGdzNEtxWWkydUZpNHp1TzBNRVQvWHEyWkkzQ2srR2ZhaWI3c3RHUGhZNTdjbEN1VHE1RzQ5OUM1bTdLQzF4UW0wcmJSL3k0azFZQzUrUEc4cFlCQT09Cg=="
                                          }
                   }
 }
