@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "Sybl now asks before it installs its updates by itself, and you can change your answer in Settings, under Updates. Settings shows your calendar by its website, keeping its private link out of sight, and your backups now cover each of the last ten days. Setting up tells you how your first calendar read went, the window stays quick while Sybl syncs, and searching Posts is faster. Plus small fixes.",
-  "pub_date": "2026-10-24T18:50:46Z",
+  "version": "1.0.21",
+  "notes": "The search is one key away from more places: / and Ctrl+K (Command-K on a Mac) now work straight after you tick something done, and from Settings opened over Posts they go to the posts search. Escape also closes an item's details right after you tick it.",
+  "pub_date": "2026-10-25T19:14:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.20_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmhoRFp4TlFzbExYYXl1UGNjS2xkRFlpYnZSbUV3UEl3U1ozcjJlQVpXMVB3SExTSmNwalFGUDRnQmkyenNWZGdkTkgxdk1VVDdTRFV6TmhOanZKeHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3NzA3CWZpbGU6U3libC5hcHAudGFyLmd6CjJQQ3dLMXVTbGxhSmwySzdRTlVFd1hPTTRZZlhBS3B1R2Q1bk95QVEySmZ0ZVhHbm8yMURlNmVoa2orcFMvMjlHM25Yalg2SXRpdnptb1JnTEZKaEJ3PT0K"
+      "url": "https://raw.githubusercontent.com/MookyEU/Assignment-Tracker-Releases/main/updates/Sybl_1.0.21_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QmpyQTBzQlB2b3VCcWdQd2s3NUI0Q2RjSDk3a2hzV1ZMVXd4ek1zNGd1NEEyc242cFZvcnE4SGxoanY3enFFNzYvWExIUVFoNFFvSkdxM1RYcFVhK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1NTM2CWZpbGU6U3libC5hcHAudGFyLmd6Cm5tUWY4ZWJXbStQTUZpNXRzdlNyeXE1NUlSdEJnc1NrK0dkY0hxV01SK08yNjZZTS9VTDBqVWZBUmpjME5hUVp6OFNqTndLYW9mVVBSN2RmdzB2aERRPT0K"
     }
   }
 }
