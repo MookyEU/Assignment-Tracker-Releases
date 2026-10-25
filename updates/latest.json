@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.20",
-    "notes":  "Sybl now asks before it installs its updates by itself, and you can change your answer in Settings, under Updates. Settings shows your calendar by its website, keeping its private link out of sight, and your backups now cover each of the last ten days. Setting up tells you how your first calendar read went, the window stays quick while Sybl syncs, and searching Posts is faster. Plus small fixes.",
-    "pub_date":  "2026-10-24T21:41:03Z",
+    "version":  "1.0.21",
+    "notes":  "The search is one key away from more places: / and Ctrl+K (Command-K on a Mac) now work straight after you tick something done, and from Settings opened over Posts they go to the posts search. Escape also closes an item\u0027s details right after you tick it.",
+    "pub_date":  "2026-10-25T06:03:48Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.20/Sybl_1.0.20_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3QnI5NWx0ME1qeWU3VG9xWXRBcGcvd0oyMnFtcVVCUUhhM1Y4WWNNckU4Vy9UU0JKYTl3enhWajRwVGJxYzNmUlNIZlk0WFRBSHV5N0JBdEEwWTdjZHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODc4MDYzCWZpbGU6U3libF8xLjAuMjBfeDY0LXNldHVwLmV4ZQp2bGdzNEtxWWkydUZpNHp1TzBNRVQvWHEyWkkzQ2srR2ZhaWI3c3RHUGhZNTdjbEN1VHE1RzQ5OUM1bTdLQzF4UW0wcmJSL3k0azFZQzUrUEc4cFlCQT09Cg=="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.21/Sybl_1.0.21_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qms3amUxSi9QVUlpZVNLTHdCSExrUExmYW9TYXZVTzcrQm5nRzZUa01KQ0JqWEJsNHY0eStvb25OaTN0WmlOV2dBK1R2YlJGK2hGbFI3UFArbmFJNUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA4MjI3CWZpbGU6U3libF8xLjAuMjFfeDY0LXNldHVwLmV4ZQo1RGF5QnZLN3hhdVRGc0JBYUtkV09vOW10RFBadVNZbUI1M1RJSk5zNlVoSGpzYlNtaGNXUkFpaS82MFl6a3ZpTXNManZhMWE2Z3Z5OU5nNmNwdUdDUT09Cg=="
                                          }
                   }
 }
