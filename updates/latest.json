@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.21",
-    "notes":  "The search is one key away from more places: / and Ctrl+K (Command-K on a Mac) now work straight after you tick something done, and from Settings opened over Posts they go to the posts search. Escape also closes an item\u0027s details right after you tick it.",
-    "pub_date":  "2026-10-25T06:03:48Z",
+    "version":  "1.0.22",
+    "notes":  "Getting ready for Projects: group projects will soon get a page of their own, for anyone signed in. Settings, Data and safety, now says what your account keeps for projects. Also a newer version of the framework the app is built on.",
+    "pub_date":  "2026-10-30T05:42:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.21/Sybl_1.0.21_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qms3amUxSi9QVUlpZVNLTHdCSExrUExmYW9TYXZVTzcrQm5nRzZUa01KQ0JqWEJsNHY0eStvb25OaTN0WmlOV2dBK1R2YlJGK2hGbFI3UFArbmFJNUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA4MjI3CWZpbGU6U3libF8xLjAuMjFfeDY0LXNldHVwLmV4ZQo1RGF5QnZLN3hhdVRGc0JBYUtkV09vOW10RFBadVNZbUI1M1RJSk5zNlVoSGpzYlNtaGNXUkFpaS82MFl6a3ZpTXNManZhMWE2Z3Z5OU5nNmNwdUdDUT09Cg=="
+                                             "url":  "https://github.com/MookyEU/Assignment-Tracker-Releases/releases/download/v1.0.22/Sybl_1.0.22_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReU9uZ2pDdTg3Qm16TEpPanhiajd1Y3F3U2EweGJLd1dTR3o4M1d0eVMrYmlzeGtyOUtMUlhmNkZzZHMySVZJNXdwZnZaVklwNVZVQUwyalV4d2krdnFZK1gzM1FhRVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM4OTM5CWZpbGU6U3libF8xLjAuMjJfeDY0LXNldHVwLmV4ZQorR2hWUGwrYW9hUFVUM3hXNVJJUks5TFlvYlB0aFFGZEl3LzdNZGw5djNHV2ZMbVpLYk1rMldaTExRMkw2MVpVdXdOa2l0aGEyZlNWbEt0aVE1NlJEUT09Cg=="
                                          }
                   }
 }
