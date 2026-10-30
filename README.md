@@ -49,11 +49,12 @@ new version is ready.
 
 ## Your privacy
 
-Your coursework stays on your computer. When you sign in, Sybl saves what you
-have done in it (your ticks, notes and changes) and your calendar link to your
-account, so your other computers can have them too. It never sees your grades.
-Your account is stored in Canada, and you can download everything in it, or
-delete it, from Settings at any time.
+Sybl reads your calendar on your computer. When you sign in, your account keeps
+what you have done in it (your ticks, notes and changes), your calendar link and
+your projects, with the classmates' names, links and notes you add, so your other
+computers can have them too. It never sees your grades. Your account is stored in
+Canada, and you can download everything in it, or delete it, from Settings at any
+time. Read the [privacy policy](PRIVACY.md).
 
 ---
 
